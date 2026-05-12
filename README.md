@@ -6,7 +6,7 @@ Built for testers and SDETs who want a fresh perspective on incidents beyond wha
 
 ---
 
-![Incident Podcast Agent](screenshots/incidentcast-ui.png)
+![Incident Podcast Agent](screenshots/screenshot.png)
 
 ---
 
